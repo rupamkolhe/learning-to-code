@@ -1,0 +1,27 @@
+
+body {
+	text-align : center;
+}
+
+.count {
+	font-size : 3rem;
+	font-family : 'Roboto', sans-serif;
+}
+
+.decrement-button, .increment-button, .reset-button {
+	padding : 10px 16px;
+	background-color : cyan;
+	border : 1px solid grey;
+	border-radius : 4px;
+	cursor : pointer;
+	font-size : 1rem;
+}
+
+.changeBy {
+	height : 2rem;
+	width : 5rem;
+	font-size : 1rem;
+	margin : 16px 10px;
+}
+
+
